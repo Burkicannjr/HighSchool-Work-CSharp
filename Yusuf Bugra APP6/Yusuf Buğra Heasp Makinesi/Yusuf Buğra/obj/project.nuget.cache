@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Yx5gM5Ch0uc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ybmhm\\Masaüstü\\Yusuf Buğra Visual Studio projeleri\\Yusuf Buğra\\Yusuf Buğra\\Yusuf Buğra.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ybmhm\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\ybmhm\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\ybmhm\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\ybmhm\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.20\\microsoft.netcore.app.host.win-x64.7.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
