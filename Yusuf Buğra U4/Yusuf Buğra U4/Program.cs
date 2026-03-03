@@ -1,4 +1,4 @@
-namespace Yusuf_Buğra_U4
+namespace Yusuf_Bugra_APP1
 {
     internal static class Program
     {
@@ -14,4 +14,5 @@ namespace Yusuf_Buğra_U4
             Application.Run(new Form1());
         }
     }
+
 }
