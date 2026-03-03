@@ -1,0 +1,16 @@
+C:\Users\ybmhm\Masaüstü\Yusuf Buğra Visual Studio projeleri\Yusuf Buğra U12\Yusuf Buğra U12\obj\Debug\net8.0-windows\Yusuf_Buğra_U12.Form1.resources
+C:\Users\ybmhm\Masaüstü\Yusuf Buğra Visual Studio projeleri\Yusuf Buğra U12\Yusuf Buğra U12\obj\Debug\net8.0-windows\Yusuf Buğra U12.csproj.GenerateResource.cache
+C:\Users\ybmhm\Masaüstü\Yusuf Buğra Visual Studio projeleri\Yusuf Buğra U12\Yusuf Buğra U12\obj\Debug\net8.0-windows\Yusuf Buğra U12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ybmhm\Masaüstü\Yusuf Buğra Visual Studio projeleri\Yusuf Buğra U12\Yusuf Buğra U12\obj\Debug\net8.0-windows\Yusuf Buğra U12.AssemblyInfoInputs.cache
+C:\Users\ybmhm\Masaüstü\Yusuf Buğra Visual Studio projeleri\Yusuf Buğra U12\Yusuf Buğra U12\obj\Debug\net8.0-windows\Yusuf Buğra U12.AssemblyInfo.cs
+C:\Users\ybmhm\Masaüstü\Yusuf Buğra Visual Studio projeleri\Yusuf Buğra U12\Yusuf Buğra U12\obj\Debug\net8.0-windows\Yusuf Buğra U12.csproj.CoreCompileInputs.cache
+C:\Users\ybmhm\Masaüstü\Yusuf Buğra Visual Studio projeleri\Yusuf Buğra U12\Yusuf Buğra U12\bin\Debug\net8.0-windows\Yusuf Buğra U12.exe
+C:\Users\ybmhm\Masaüstü\Yusuf Buğra Visual Studio projeleri\Yusuf Buğra U12\Yusuf Buğra U12\bin\Debug\net8.0-windows\Yusuf Buğra U12.deps.json
+C:\Users\ybmhm\Masaüstü\Yusuf Buğra Visual Studio projeleri\Yusuf Buğra U12\Yusuf Buğra U12\bin\Debug\net8.0-windows\Yusuf Buğra U12.runtimeconfig.json
+C:\Users\ybmhm\Masaüstü\Yusuf Buğra Visual Studio projeleri\Yusuf Buğra U12\Yusuf Buğra U12\bin\Debug\net8.0-windows\Yusuf Buğra U12.dll
+C:\Users\ybmhm\Masaüstü\Yusuf Buğra Visual Studio projeleri\Yusuf Buğra U12\Yusuf Buğra U12\bin\Debug\net8.0-windows\Yusuf Buğra U12.pdb
+C:\Users\ybmhm\Masaüstü\Yusuf Buğra Visual Studio projeleri\Yusuf Buğra U12\Yusuf Buğra U12\obj\Debug\net8.0-windows\Yusuf Buğra U12.dll
+C:\Users\ybmhm\Masaüstü\Yusuf Buğra Visual Studio projeleri\Yusuf Buğra U12\Yusuf Buğra U12\obj\Debug\net8.0-windows\refint\Yusuf Buğra U12.dll
+C:\Users\ybmhm\Masaüstü\Yusuf Buğra Visual Studio projeleri\Yusuf Buğra U12\Yusuf Buğra U12\obj\Debug\net8.0-windows\Yusuf Buğra U12.pdb
+C:\Users\ybmhm\Masaüstü\Yusuf Buğra Visual Studio projeleri\Yusuf Buğra U12\Yusuf Buğra U12\obj\Debug\net8.0-windows\Yusuf Buğra U12.genruntimeconfig.cache
+C:\Users\ybmhm\Masaüstü\Yusuf Buğra Visual Studio projeleri\Yusuf Buğra U12\Yusuf Buğra U12\obj\Debug\net8.0-windows\ref\Yusuf Buğra U12.dll
